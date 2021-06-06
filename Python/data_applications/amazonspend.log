@@ -1,0 +1,260 @@
+INFO : 1622307595.646139 : 2021-05-29 11:59:55,646 : Data read into as a pandas dataframe with a dimenstion (43, 36)
+INFO : lib.logger : 1622307666.589153 : 2021-05-29 12:01:06,589 : Data read into as a pandas dataframe with a dimenstion (43, 36)
+INFO : 1622307719.452653 : 2021-05-29 12:01:59,452 : Data read into as a pandas dataframe with a dimenstion (43, 36)
+lib.logger : 1622307742.341554 : 2021-05-29 12:02:22,341 : Data read into as a pandas dataframe with a dimenstion (43, 36)
+INFO : lib.logger : 1622307980.671428 : 2021-05-29 12:06:20,671 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622308548.177894 : 2021-05-29 12:15:48,177 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622308942.148726 : 2021-05-29 12:22:22,148 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622308942.150776 : 2021-05-29 12:22:22,150 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622309132.591903 : 2021-05-29 12:25:32,591 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622309132.594064 : 2021-05-29 12:25:32,594 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622309166.336646 : 2021-05-29 12:26:06,336 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622309166.338705 : 2021-05-29 12:26:06,338 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622309694.931111 : 2021-05-29 12:34:54,931 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622309804.438120 : 2021-05-29 12:36:44,438 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622310092.278668 : 2021-05-29 12:41:32,278 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622310092.281450 : 2021-05-29 12:41:32,281 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622310103.125451 : 2021-05-29 12:41:43,125 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622310103.127536 : 2021-05-29 12:41:43,127 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622310117.164989 : 2021-05-29 12:41:57,164 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622310117.167417 : 2021-05-29 12:41:57,167 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622310249.854459 : 2021-05-29 12:44:09,854 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622310249.858003 : 2021-05-29 12:44:09,858 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622310760.698569 : 2021-05-29 12:52:40,698 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622310971.696436 : 2021-05-29 12:56:11,696 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622311070.779105 : 2021-05-29 12:57:50,779 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622311305.052765 : 2021-05-29 13:01:45,052 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622311305.054851 : 2021-05-29 13:01:45,054 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622311397.488933 : 2021-05-29 13:03:17,488 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622311397.490977 : 2021-05-29 13:03:17,490 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622312449.918956 : 2021-05-29 13:20:49,918 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622312604.095597 : 2021-05-29 13:23:24,095 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622312822.312368 : 2021-05-29 13:27:02,312 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622386739.863661 : 2021-05-30 09:58:59,863 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622386793.082430 : 2021-05-30 09:59:53,082 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622387106.007545 : 2021-05-30 10:05:06,007 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622387328.705431 : 2021-05-30 10:08:48,705 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622387626.313347 : 2021-05-30 10:13:46,313 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622387626.315866 : 2021-05-30 10:13:46,315 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622387839.635915 : 2021-05-30 10:17:19,635 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622387907.152421 : 2021-05-30 10:18:27,152 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622388084.528372 : 2021-05-30 10:21:24,528 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622388485.580658 : 2021-05-30 10:28:05,580 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622388485.584176 : 2021-05-30 10:28:05,584 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622388547.627531 : 2021-05-30 10:29:07,627 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622388547.630629 : 2021-05-30 10:29:07,630 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622388642.877394 : 2021-05-30 10:30:42,877 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622388726.016811 : 2021-05-30 10:32:06,016 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389002.153010 : 2021-05-30 10:36:42,153 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389020.099047 : 2021-05-30 10:37:00,099 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389020.102003 : 2021-05-30 10:37:00,102 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389076.220326 : 2021-05-30 10:37:56,220 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389076.223171 : 2021-05-30 10:37:56,223 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389098.041826 : 2021-05-30 10:38:18,041 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389098.045075 : 2021-05-30 10:38:18,045 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389200.532516 : 2021-05-30 10:40:00,532 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389200.535347 : 2021-05-30 10:40:00,535 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389228.528739 : 2021-05-30 10:40:28,528 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389228.544144 : 2021-05-30 10:40:28,544 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389300.233129 : 2021-05-30 10:41:40,233 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389300.236122 : 2021-05-30 10:41:40,236 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389319.524761 : 2021-05-30 10:41:59,524 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389319.528439 : 2021-05-30 10:41:59,528 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389359.954525 : 2021-05-30 10:42:39,954 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389359.967930 : 2021-05-30 10:42:39,967 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389377.790290 : 2021-05-30 10:42:57,790 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389377.803382 : 2021-05-30 10:42:57,803 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389416.241797 : 2021-05-30 10:43:36,241 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389416.254287 : 2021-05-30 10:43:36,254 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389634.551682 : 2021-05-30 10:47:14,551 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389634.564033 : 2021-05-30 10:47:14,564 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389730.851443 : 2021-05-30 10:48:50,851 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389730.864723 : 2021-05-30 10:48:50,864 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389809.950865 : 2021-05-30 10:50:09,950 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389809.965605 : 2021-05-30 10:50:09,965 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389911.040925 : 2021-05-30 10:51:51,040 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389911.053134 : 2021-05-30 10:51:51,053 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389931.344573 : 2021-05-30 10:52:11,344 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389931.357279 : 2021-05-30 10:52:11,357 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622389948.917270 : 2021-05-30 10:52:28,917 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622389948.929042 : 2021-05-30 10:52:28,929 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622390011.710630 : 2021-05-30 10:53:31,710 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622390011.723035 : 2021-05-30 10:53:31,723 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622390078.210036 : 2021-05-30 10:54:38,210 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622390111.585841 : 2021-05-30 10:55:11,585 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622390134.969930 : 2021-05-30 10:55:34,969 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622390134.981708 : 2021-05-30 10:55:34,981 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622390144.371839 : 2021-05-30 10:55:44,371 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622390144.387048 : 2021-05-30 10:55:44,387 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622390221.924998 : 2021-05-30 10:57:01,924 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622390221.939981 : 2021-05-30 10:57:01,939 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622391650.214782 : 2021-05-30 11:20:50,214 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622391650.232367 : 2021-05-30 11:20:50,232 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622391703.910905 : 2021-05-30 11:21:43,910 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622391703.925432 : 2021-05-30 11:21:43,925 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622391736.483847 : 2021-05-30 11:22:16,483 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622391736.496871 : 2021-05-30 11:22:16,496 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622391796.301513 : 2021-05-30 11:23:16,301 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622391796.319784 : 2021-05-30 11:23:16,319 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622391802.819557 : 2021-05-30 11:23:22,819 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622391802.833051 : 2021-05-30 11:23:22,833 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622391867.109731 : 2021-05-30 11:24:27,109 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622391867.126460 : 2021-05-30 11:24:27,126 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622391907.456853 : 2021-05-30 11:25:07,456 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622391907.471971 : 2021-05-30 11:25:07,471 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622391942.921628 : 2021-05-30 11:25:42,921 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622391942.936796 : 2021-05-30 11:25:42,936 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392077.378042 : 2021-05-30 11:27:57,378 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392077.391025 : 2021-05-30 11:27:57,391 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392110.402803 : 2021-05-30 11:28:30,402 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392110.416103 : 2021-05-30 11:28:30,416 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392166.942025 : 2021-05-30 11:29:26,942 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392166.961888 : 2021-05-30 11:29:26,961 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392248.777999 : 2021-05-30 11:30:48,777 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392248.792469 : 2021-05-30 11:30:48,792 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392475.324655 : 2021-05-30 11:34:35,324 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392475.338078 : 2021-05-30 11:34:35,338 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392501.207714 : 2021-05-30 11:35:01,207 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392501.221167 : 2021-05-30 11:35:01,221 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392555.402118 : 2021-05-30 11:35:55,402 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392555.413789 : 2021-05-30 11:35:55,413 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392750.098849 : 2021-05-30 11:39:10,098 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392750.113806 : 2021-05-30 11:39:10,113 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392814.822032 : 2021-05-30 11:40:14,822 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392814.833907 : 2021-05-30 11:40:14,833 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392833.515330 : 2021-05-30 11:40:33,515 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392833.526056 : 2021-05-30 11:40:33,526 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392870.383940 : 2021-05-30 11:41:10,383 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392870.395008 : 2021-05-30 11:41:10,395 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392883.519259 : 2021-05-30 11:41:23,519 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392883.531765 : 2021-05-30 11:41:23,531 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622392899.177888 : 2021-05-30 11:41:39,177 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622392899.189877 : 2021-05-30 11:41:39,189 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622393314.091026 : 2021-05-30 11:48:34,091 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622393314.104162 : 2021-05-30 11:48:34,104 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622393342.781042 : 2021-05-30 11:49:02,781 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622393342.794896 : 2021-05-30 11:49:02,794 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622393375.627981 : 2021-05-30 11:49:35,627 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622393375.639763 : 2021-05-30 11:49:35,639 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622393519.209336 : 2021-05-30 11:51:59,209 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622393519.222591 : 2021-05-30 11:51:59,222 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622393605.539343 : 2021-05-30 11:53:25,539 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622393605.552575 : 2021-05-30 11:53:25,552 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622393700.857300 : 2021-05-30 11:55:00,857 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622393700.870765 : 2021-05-30 11:55:00,870 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622393809.146007 : 2021-05-30 11:56:49,146 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622393809.159239 : 2021-05-30 11:56:49,159 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622393851.420840 : 2021-05-30 11:57:31,420 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622393851.433084 : 2021-05-30 11:57:31,433 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622394561.691145 : 2021-05-30 12:09:21,691 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622394561.707291 : 2021-05-30 12:09:21,707 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622394590.430496 : 2021-05-30 12:09:50,430 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622394590.446046 : 2021-05-30 12:09:50,446 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622394655.094804 : 2021-05-30 12:10:55,094 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622394771.338892 : 2021-05-30 12:12:51,338 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622394771.350969 : 2021-05-30 12:12:51,350 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622394800.285958 : 2021-05-30 12:13:20,285 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622394800.301174 : 2021-05-30 12:13:20,301 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622394826.182568 : 2021-05-30 12:13:46,182 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622394826.194373 : 2021-05-30 12:13:46,194 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622394834.854991 : 2021-05-30 12:13:54,854 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622394834.868557 : 2021-05-30 12:13:54,868 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622394874.971801 : 2021-05-30 12:14:34,971 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395124.749223 : 2021-05-30 12:18:44,749 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395148.750383 : 2021-05-30 12:19:08,750 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395148.765237 : 2021-05-30 12:19:08,765 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622395173.156894 : 2021-05-30 12:19:33,156 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395173.170462 : 2021-05-30 12:19:33,170 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622395211.090628 : 2021-05-30 12:20:11,090 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395211.105852 : 2021-05-30 12:20:11,105 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622395429.932296 : 2021-05-30 12:23:49,932 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395429.945990 : 2021-05-30 12:23:49,945 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622395490.456706 : 2021-05-30 12:24:50,456 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395505.684402 : 2021-05-30 12:25:05,684 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395505.697422 : 2021-05-30 12:25:05,697 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622395538.434706 : 2021-05-30 12:25:38,434 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395538.451147 : 2021-05-30 12:25:38,451 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622395647.813312 : 2021-05-30 12:27:27,813 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395647.825902 : 2021-05-30 12:27:27,825 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622395712.427533 : 2021-05-30 12:28:32,427 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395712.439276 : 2021-05-30 12:28:32,439 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622395795.194569 : 2021-05-30 12:29:55,194 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395808.462656 : 2021-05-30 12:30:08,462 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395808.479970 : 2021-05-30 12:30:08,479 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622395924.014923 : 2021-05-30 12:32:04,014 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395924.028537 : 2021-05-30 12:32:04,028 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622395958.085807 : 2021-05-30 12:32:38,085 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622395958.096708 : 2021-05-30 12:32:38,096 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396059.835417 : 2021-05-30 12:34:19,835 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396059.852649 : 2021-05-30 12:34:19,852 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396096.548746 : 2021-05-30 12:34:56,548 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396096.563172 : 2021-05-30 12:34:56,563 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396111.008910 : 2021-05-30 12:35:11,008 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396111.024561 : 2021-05-30 12:35:11,024 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396269.860120 : 2021-05-30 12:37:49,860 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396269.872576 : 2021-05-30 12:37:49,872 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396322.940008 : 2021-05-30 12:38:42,940 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396322.957535 : 2021-05-30 12:38:42,957 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396338.776815 : 2021-05-30 12:38:58,776 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396338.791209 : 2021-05-30 12:38:58,791 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396423.104326 : 2021-05-30 12:40:23,104 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396514.846594 : 2021-05-30 12:41:54,846 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396530.276147 : 2021-05-30 12:42:10,276 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396565.146437 : 2021-05-30 12:42:45,146 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396565.160741 : 2021-05-30 12:42:45,160 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396585.758773 : 2021-05-30 12:43:05,758 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396585.775382 : 2021-05-30 12:43:05,775 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396599.503141 : 2021-05-30 12:43:19,503 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396599.515382 : 2021-05-30 12:43:19,515 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396620.426962 : 2021-05-30 12:43:40,426 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396635.009554 : 2021-05-30 12:43:55,009 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396652.923850 : 2021-05-30 12:44:12,923 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396672.496527 : 2021-05-30 12:44:32,496 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396693.724061 : 2021-05-30 12:44:53,724 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396845.536473 : 2021-05-30 12:47:25,536 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622396845.551231 : 2021-05-30 12:47:25,551 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622396876.565776 : 2021-05-30 12:47:56,565 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397098.987642 : 2021-05-30 12:51:38,987 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397099.005367 : 2021-05-30 12:51:39,005 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622397226.802498 : 2021-05-30 12:53:46,802 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397226.816999 : 2021-05-30 12:53:46,816 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622397269.675201 : 2021-05-30 12:54:29,675 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397269.690159 : 2021-05-30 12:54:29,690 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622397282.701764 : 2021-05-30 12:54:42,701 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397282.715315 : 2021-05-30 12:54:42,715 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622397308.381745 : 2021-05-30 12:55:08,381 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397308.399885 : 2021-05-30 12:55:08,399 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622397355.740374 : 2021-05-30 12:55:55,740 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397355.754903 : 2021-05-30 12:55:55,754 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622397457.292625 : 2021-05-30 12:57:37,292 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397457.304694 : 2021-05-30 12:57:37,304 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622397534.651256 : 2021-05-30 12:58:54,651 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397595.060402 : 2021-05-30 12:59:55,060 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397595.071815 : 2021-05-30 12:59:55,071 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622397612.491675 : 2021-05-30 13:00:12,491 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397612.502848 : 2021-05-30 13:00:12,502 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622397667.652561 : 2021-05-30 13:01:07,652 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397667.664564 : 2021-05-30 13:01:07,664 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622397691.020935 : 2021-05-30 13:01:31,020 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397762.619724 : 2021-05-30 13:02:42,619 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397925.040518 : 2021-05-30 13:05:25,040 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397972.563113 : 2021-05-30 13:06:12,563 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622397972.583564 : 2021-05-30 13:06:12,583 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622398112.785415 : 2021-05-30 13:08:32,785 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622398112.800613 : 2021-05-30 13:08:32,800 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622398345.524848 : 2021-05-30 13:12:25,524 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622398345.537637 : 2021-05-30 13:12:25,537 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622398370.489025 : 2021-05-30 13:12:50,489 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622398370.502971 : 2021-05-30 13:12:50,502 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622398450.140871 : 2021-05-30 13:14:10,140 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622398450.152705 : 2021-05-30 13:14:10,152 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622398474.791716 : 2021-05-30 13:14:34,791 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622398474.804309 : 2021-05-30 13:14:34,804 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622398511.861333 : 2021-05-30 13:15:11,861 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622398511.873228 : 2021-05-30 13:15:11,873 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622398532.295193 : 2021-05-30 13:15:32,295 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622398532.306889 : 2021-05-30 13:15:32,306 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622398545.902363 : 2021-05-30 13:15:45,902 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622398545.916722 : 2021-05-30 13:15:45,916 : Data is cleaned and ready for analysis
+INFO : lib.logger : 1622399037.979331 : 2021-05-30 13:23:57,979 : Data read into as a pandas dataframe with 43 Rows and 36 Columns
+INFO : lib.logger : 1622399037.991787 : 2021-05-30 13:23:57,991 : Data is cleaned and ready for analysis

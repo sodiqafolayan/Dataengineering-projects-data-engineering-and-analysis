@@ -1,0 +1,51 @@
+INFO : lib.countdownlogger : 1622563766.471060 : 2021-06-01 11:09:26,471 : countdownmain : 35515 : 4526312960 : MainThread : **********
+ERROR : lib.countdownlogger : 1622563766.471348 : 2021-06-01 11:09:26,471 : countdownmain : 35515 : 4526312960 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622563766.471420 : 2021-06-01 11:09:26,471 : countdownmain : 35515 : 4526312960 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622564289.029294 : 2021-06-01 11:18:09,029 : countdownmain : 35635 : 4554305024 : MainThread : **********
+ERROR : lib.countdownlogger : 1622564289.030642 : 2021-06-01 11:18:09,030 : countdownmain : 35635 : 4554305024 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622564289.031002 : 2021-06-01 11:18:09,031 : countdownmain : 35635 : 4554305024 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622564321.273896 : 2021-06-01 11:18:41,273 : countdownmain : 35655 : 4633660928 : MainThread : **********
+ERROR : lib.countdownlogger : 1622564321.275041 : 2021-06-01 11:18:41,275 : countdownmain : 35655 : 4633660928 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622564321.275245 : 2021-06-01 11:18:41,275 : countdownmain : 35655 : 4633660928 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622652602.884787 : 2021-06-02 11:50:02,884 : countdownmain : 41399 : 4471815680 : MainThread : **********
+ERROR : lib.countdownlogger : 1622652602.886834 : 2021-06-02 11:50:02,886 : countdownmain : 41399 : 4471815680 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622652602.886922 : 2021-06-02 11:50:02,886 : countdownmain : 41399 : 4471815680 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622652703.770522 : 2021-06-02 11:51:43,770 : countdownmain : 41416 : 4417334784 : MainThread : **********
+ERROR : lib.countdownlogger : 1622652703.771901 : 2021-06-02 11:51:43,771 : countdownmain : 41416 : 4417334784 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622652703.772201 : 2021-06-02 11:51:43,772 : countdownmain : 41416 : 4417334784 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622656084.418630 : 2021-06-02 12:48:04,418 : countdownmain : 41760 : 4576923136 : MainThread : **********
+ERROR : lib.countdownlogger : 1622656084.420057 : 2021-06-02 12:48:04,420 : countdownmain : 41760 : 4576923136 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622656084.420284 : 2021-06-02 12:48:04,420 : countdownmain : 41760 : 4576923136 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622657584.926801 : 2021-06-02 13:13:04,926 : countdownmain : 43646 : 4601642496 : MainThread : **********
+ERROR : lib.countdownlogger : 1622657584.927973 : 2021-06-02 13:13:04,927 : countdownmain : 43646 : 4601642496 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622657584.928210 : 2021-06-02 13:13:04,928 : countdownmain : 43646 : 4601642496 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622657611.877869 : 2021-06-02 13:13:31,877 : countdownmain : 43655 : 4711464448 : MainThread : **********
+ERROR : lib.countdownlogger : 1622657611.878515 : 2021-06-02 13:13:31,878 : countdownmain : 43655 : 4711464448 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622657611.878731 : 2021-06-02 13:13:31,878 : countdownmain : 43655 : 4711464448 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622657640.389792 : 2021-06-02 13:14:00,389 : countdownmain : 43662 : 4679536128 : MainThread : **********
+ERROR : lib.countdownlogger : 1622657640.390151 : 2021-06-02 13:14:00,390 : countdownmain : 43662 : 4679536128 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622657640.390266 : 2021-06-02 13:14:00,390 : countdownmain : 43662 : 4679536128 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622737762.274486 : 2021-06-03 11:29:22,274 : countdownmain : 48860 : 4480916992 : MainThread : **********
+ERROR : lib.countdownlogger : 1622737762.276224 : 2021-06-03 11:29:22,276 : countdownmain : 48860 : 4480916992 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622737762.276533 : 2021-06-03 11:29:22,276 : countdownmain : 48860 : 4480916992 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622737786.951415 : 2021-06-03 11:29:46,951 : countdownmain : 48868 : 4598185472 : MainThread : **********
+ERROR : lib.countdownlogger : 1622737786.951640 : 2021-06-03 11:29:46,951 : countdownmain : 48868 : 4598185472 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622737786.951689 : 2021-06-03 11:29:46,951 : countdownmain : 48868 : 4598185472 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622737858.681144 : 2021-06-03 11:30:58,681 : countdownmain : 48873 : 4524109312 : MainThread : **********
+ERROR : lib.countdownlogger : 1622737858.681342 : 2021-06-03 11:30:58,681 : countdownmain : 48873 : 4524109312 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622737858.681392 : 2021-06-03 11:30:58,681 : countdownmain : 48873 : 4524109312 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622737958.663144 : 2021-06-03 11:32:38,663 : countdownmain : 48889 : 4379020800 : MainThread : **********
+ERROR : lib.countdownlogger : 1622737958.664672 : 2021-06-03 11:32:38,664 : countdownmain : 48889 : 4379020800 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622737958.664953 : 2021-06-03 11:32:38,664 : countdownmain : 48889 : 4379020800 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622738064.761395 : 2021-06-03 11:34:24,761 : countdownmain : 48910 : 4453338624 : MainThread : **********
+ERROR : lib.countdownlogger : 1622738064.762924 : 2021-06-03 11:34:24,762 : countdownmain : 48910 : 4453338624 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622738064.763288 : 2021-06-03 11:34:24,763 : countdownmain : 48910 : 4453338624 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622738083.415199 : 2021-06-03 11:34:43,415 : countdownmain : 48919 : 4564405760 : MainThread : **********
+ERROR : lib.countdownlogger : 1622738083.415380 : 2021-06-03 11:34:43,415 : countdownmain : 48919 : 4564405760 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622738083.415433 : 2021-06-03 11:34:43,415 : countdownmain : 48919 : 4564405760 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622738150.809702 : 2021-06-03 11:35:50,809 : countdownmain : 48932 : 4543651328 : MainThread : **********
+ERROR : lib.countdownlogger : 1622738150.810438 : 2021-06-03 11:35:50,810 : countdownmain : 48932 : 4543651328 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622738150.810540 : 2021-06-03 11:35:50,810 : countdownmain : 48932 : 4543651328 : MainThread : Success!!!
+INFO : lib.countdownlogger : 1622738207.006357 : 2021-06-03 11:36:47,006 : countdownmain : 48952 : 4680785408 : MainThread : **********
+ERROR : lib.countdownlogger : 1622738207.007841 : 2021-06-03 11:36:47,007 : countdownmain : 48952 : 4680785408 : MainThread : Alphabet not allowed
+INFO : lib.countdownlogger : 1622738207.008107 : 2021-06-03 11:36:47,008 : countdownmain : 48952 : 4680785408 : MainThread : Success!!!
