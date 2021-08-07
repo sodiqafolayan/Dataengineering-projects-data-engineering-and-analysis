@@ -21,3 +21,31 @@ SELECT t1.rep_name
 FROM t1
 JOIN t2
 ON t1.total_rep_sales = t2.highest_sales
+
+
+/*
+For the region with the largest (sum) of sales total_amt_usd, how many total (count) orders were placed?
+*/
+
+SELECT r.name,
+	   SUM(o.total)
+FROM region r
+JOIN sales_reps s
+ON r.id = s.region_id
+JOIN accounts a
+ON s.id = a.sales_rep_id
+JOIN orders o
+ON a.id = o.account_id
+GROUP BY 1
+HAVING SUM(o.total_amt_usd) =
+    (SELECT MAX(region_total)
+    FROM
+          (SELECT s.region_id,
+                 SUM(total_amt_usd) region_total
+          FROM sales_reps s
+          JOIN accounts a
+          ON s.id = a.sales_rep_id
+          JOIN orders o
+          ON a.id = o.account_id
+          GROUP BY 1) sub1)
+
