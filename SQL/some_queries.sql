@@ -49,3 +49,26 @@ HAVING SUM(o.total_amt_usd) =
           ON a.id = o.account_id
           GROUP BY 1) sub1)
 
+/*
+How many accounts had more total purchases than the account name which has bought the
+most standard_qty paper throughout their lifetime as a customer?
+*/
+SELECT COUNT(*) FROM
+    (SELECT a.name,
+            SUM(o.total) total_purchase
+     FROM accounts a
+     JOIN orders o
+     ON a.id = o.account_id
+     GROUP BY 1
+     HAVING SUM(o.total) >
+         (SELECT total
+         FROM
+               (SELECT a.name,
+                    SUM(o.standard_qty) total_standard,
+                    SUM(o.total) total
+             FROM accounts a
+             JOIN orders o
+             ON a.id = o.account_id
+             GROUP BY 1
+             ORDER BY 2 DESC
+             LIMIT 1) sub1)) sub2
