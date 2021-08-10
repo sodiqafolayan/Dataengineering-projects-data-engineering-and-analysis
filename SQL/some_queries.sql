@@ -108,3 +108,17 @@ SELECT ROUND(AVG(total_sum), 2) top_ten_avg FROM
     ORDER BY 3 DESC
     LIMIT 10) sub1
 
+/*
+What is the lifetime average amount spent in terms of total_amt_usd, including only the
+companies that spent more per order, on average, than the average of all orders.
+*/
+SELECT ROUND(AVG(avg_spent), 2)
+FROM
+    (SELECT account_id,
+           AVG(total_amt_usd) avg_spent
+    FROM orders
+    GROUP BY 1
+    HAVING AVG(total_amt_usd) >
+        (SELECT ROUND(AVG(total_amt_usd), 2) all_orders_avg
+        FROM orders)
+    ) sub2
