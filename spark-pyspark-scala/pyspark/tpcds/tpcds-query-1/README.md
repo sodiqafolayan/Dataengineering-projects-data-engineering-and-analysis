@@ -7,6 +7,7 @@ YEAR.01=2000
 STATE.01=TN
 AGG_FIELD.01 = SR_RETURN_AMT
 
+
 My Solution Approach
 1. Identify all the tables that need to be read in
     storeReturns, store, customer and dateDimension

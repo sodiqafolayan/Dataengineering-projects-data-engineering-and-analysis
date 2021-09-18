@@ -167,3 +167,17 @@ SELECT date initialData,
 	  SUBSTR(date, 7, 4) || '-' || LEFT(date, 2) || '-' || SUBSTR(date, 4, 2) AS formatedDate,
 (SUBSTR(date, 7, 4) || '-' || LEFT(date, 2) || '-' || SUBSTR(date, 4, 2))::date AS castedDate
 FROM sf_crime_data;
+
+/*
+INSERT INTO my_table (
+col_1, col_2
+)
+VALUES (
+'value1', 'value2'
+)
+
+
+UPDATE my_table
+SET col_name = 'Adeola Adedokun'
+WHERE age = 33
+*/

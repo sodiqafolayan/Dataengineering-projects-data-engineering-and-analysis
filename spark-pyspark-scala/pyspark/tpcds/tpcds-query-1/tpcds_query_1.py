@@ -8,7 +8,7 @@ from lib.utils import tpcds_app_config, read_data_to_df
 
 if __name__ == "__main__":
     conf = tpcds_app_config()
-    spark = spark = SparkSession.builder \
+    spark = SparkSession.builder \
         .config(conf=conf) \
         .getOrCreate()
 
